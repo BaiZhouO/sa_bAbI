@@ -1,0 +1,4 @@
+ec3dff9bfa.c:15:[value] warning: accessing out of bounds index. assert entity_1 < 9;
+ec3dff9bfa.c:15:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+ec3dff9bfa.c:22:[value] warning: accessing out of bounds index. assert entity_4 < 69;
+ec3dff9bfa.c:22:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

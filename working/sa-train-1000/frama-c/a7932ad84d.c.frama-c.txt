@@ -1,0 +1,4 @@
+a7932ad84d.c:14:[value] warning: accessing out of bounds index. assert entity_5 < 22;
+a7932ad84d.c:14:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+a7932ad84d.c:20:[value] warning: accessing out of bounds index. assert entity_1 < 34;
+a7932ad84d.c:20:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

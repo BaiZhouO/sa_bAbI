@@ -1,0 +1,4 @@
+b40462b005.c:20:[value] warning: accessing out of bounds index. assert entity_0 < 10;
+b40462b005.c:20:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+b40462b005.c:24:[value] warning: accessing out of bounds index. assert entity_2 < 60;
+b40462b005.c:24:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

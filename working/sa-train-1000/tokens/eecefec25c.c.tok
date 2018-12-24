@@ -1,0 +1,702 @@
+{
+    "filename": "/mnt/data/src/eecefec25c.c",
+    "tokens": [
+        {
+            "kind": "Keyword",
+            "line": 2,
+            "sem": "FunctionDecl",
+            "text": "int"
+        },
+        {
+            "kind": "Identifier",
+            "line": 2,
+            "sem": "FunctionDecl",
+            "sym": {
+                "id": "c:@F@main",
+                "kind": "FunctionDecl",
+                "type": "int ()"
+            },
+            "text": "main"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 2,
+            "sem": "FunctionDecl",
+            "text": "("
+        },
+        {
+            "kind": "Punctuation",
+            "line": 2,
+            "sem": "FunctionDecl",
+            "text": ")"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 3,
+            "sem": "CompoundStmt",
+            "text": "{"
+        },
+        {
+            "kind": "Keyword",
+            "line": 4,
+            "sem": "VarDecl",
+            "text": "int"
+        },
+        {
+            "kind": "Identifier",
+            "line": 4,
+            "sem": "VarDecl",
+            "sym": {
+                "id": "c:eecefec25c.c@214@F@main@entity_2",
+                "kind": "VarDecl",
+                "type": "int"
+            },
+            "text": "entity_2"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 4,
+            "sem": "DeclStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 5,
+            "sem": "VarDecl",
+            "text": "int"
+        },
+        {
+            "kind": "Identifier",
+            "line": 5,
+            "sem": "VarDecl",
+            "sym": {
+                "id": "c:eecefec25c.c@283@F@main@entity_1",
+                "kind": "VarDecl",
+                "type": "int"
+            },
+            "text": "entity_1"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 5,
+            "sem": "DeclStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Identifier",
+            "line": 6,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@214@F@main@entity_2",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 4
+                },
+                "type": "int"
+            },
+            "text": "entity_2"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 6,
+            "sem": "BinaryOperator",
+            "text": "="
+        },
+        {
+            "kind": "Literal",
+            "line": 6,
+            "sem": "IntegerLiteral",
+            "text": "0"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 6,
+            "sem": "CompoundStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 7,
+            "sem": "VarDecl",
+            "text": "char"
+        },
+        {
+            "kind": "Identifier",
+            "line": 7,
+            "sem": "VarDecl",
+            "sym": {
+                "id": "c:eecefec25c.c@421@F@main@entity_4",
+                "kind": "VarDecl",
+                "type": "char [42]"
+            },
+            "text": "entity_4"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 7,
+            "sem": "VarDecl",
+            "text": "["
+        },
+        {
+            "kind": "Literal",
+            "line": 7,
+            "sem": "IntegerLiteral",
+            "text": "42"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 7,
+            "sem": "VarDecl",
+            "text": "]"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 7,
+            "sem": "DeclStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 8,
+            "sem": "ForStmt",
+            "text": "for"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "ForStmt",
+            "text": "("
+        },
+        {
+            "kind": "Identifier",
+            "line": 8,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@283@F@main@entity_1",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 5
+                },
+                "type": "int"
+            },
+            "text": "entity_1"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "BinaryOperator",
+            "text": "="
+        },
+        {
+            "kind": "Literal",
+            "line": 8,
+            "sem": "IntegerLiteral",
+            "text": "69"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "ForStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Identifier",
+            "line": 8,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@283@F@main@entity_1",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 5
+                },
+                "type": "int"
+            },
+            "text": "entity_1"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "BinaryOperator",
+            "text": "<"
+        },
+        {
+            "kind": "Identifier",
+            "line": 8,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@214@F@main@entity_2",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 4
+                },
+                "type": "int"
+            },
+            "text": "entity_2"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "ForStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Identifier",
+            "line": 8,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@283@F@main@entity_1",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 5
+                },
+                "type": "int"
+            },
+            "text": "entity_1"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "UnaryOperator",
+            "text": "++"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "ForStmt",
+            "text": ")"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 8,
+            "sem": "CompoundStmt",
+            "text": "{"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 9,
+            "sem": "CompoundStmt",
+            "text": "}"
+        },
+        {
+            "kind": "Identifier",
+            "line": 10,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@421@F@main@entity_4",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 7
+                },
+                "type": "char [42]"
+            },
+            "text": "entity_4"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 10,
+            "sem": "ArraySubscriptExpr",
+            "text": "["
+        },
+        {
+            "kind": "Identifier",
+            "line": 10,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@283@F@main@entity_1",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 5
+                },
+                "type": "int"
+            },
+            "text": "entity_1"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 10,
+            "sem": "ArraySubscriptExpr",
+            "text": "]"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 10,
+            "sem": "BinaryOperator",
+            "text": "="
+        },
+        {
+            "kind": "Literal",
+            "line": 10,
+            "sem": "CharacterLiteral",
+            "text": "'J'"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 10,
+            "sem": "CompoundStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 11,
+            "sem": "VarDecl",
+            "text": "int"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 11,
+            "sem": "VarDecl",
+            "text": "*"
+        },
+        {
+            "kind": "Identifier",
+            "line": 11,
+            "sem": "VarDecl",
+            "sym": {
+                "id": "c:eecefec25c.c@713@F@main@entity_9",
+                "kind": "VarDecl",
+                "type": "int *"
+            },
+            "text": "entity_9"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 11,
+            "sem": "DeclStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Identifier",
+            "line": 12,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@713@F@main@entity_9",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 11
+                },
+                "type": "int *"
+            },
+            "text": "entity_9"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 12,
+            "sem": "BinaryOperator",
+            "text": "="
+        },
+        {
+            "kind": "Punctuation",
+            "line": 12,
+            "sem": "UnaryOperator",
+            "text": "&"
+        },
+        {
+            "kind": "Identifier",
+            "line": 12,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@283@F@main@entity_1",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 5
+                },
+                "type": "int"
+            },
+            "text": "entity_1"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 12,
+            "sem": "CompoundStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 13,
+            "sem": "VarDecl",
+            "text": "int"
+        },
+        {
+            "kind": "Identifier",
+            "line": 13,
+            "sem": "VarDecl",
+            "sym": {
+                "id": "c:eecefec25c.c@865@F@main@entity_5",
+                "kind": "VarDecl",
+                "type": "int"
+            },
+            "text": "entity_5"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 13,
+            "sem": "DeclStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 14,
+            "sem": "VarDecl",
+            "text": "char"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "VarDecl",
+            "text": "*"
+        },
+        {
+            "kind": "Identifier",
+            "line": 14,
+            "sem": "VarDecl",
+            "sym": {
+                "id": "c:eecefec25c.c@934@F@main@entity_7",
+                "kind": "VarDecl",
+                "type": "char *"
+            },
+            "text": "entity_7"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "VarDecl",
+            "text": "="
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "CStyleCastExpr",
+            "text": "("
+        },
+        {
+            "kind": "Keyword",
+            "line": 14,
+            "sem": "CStyleCastExpr",
+            "text": "char"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "CStyleCastExpr",
+            "text": "*"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "CStyleCastExpr",
+            "text": ")"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "ParenExpr",
+            "text": "("
+        },
+        {
+            "kind": "Identifier",
+            "line": 14,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@713@F@main@entity_9",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 11
+                },
+                "type": "int *"
+            },
+            "text": "entity_9"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "BinaryOperator",
+            "text": "+"
+        },
+        {
+            "kind": "Literal",
+            "line": 14,
+            "sem": "IntegerLiteral",
+            "text": "1"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "ParenExpr",
+            "text": ")"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 14,
+            "sem": "DeclStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 15,
+            "sem": "VarDecl",
+            "text": "char"
+        },
+        {
+            "kind": "Identifier",
+            "line": 15,
+            "sem": "VarDecl",
+            "sym": {
+                "id": "c:eecefec25c.c@1033@F@main@entity_0",
+                "kind": "VarDecl",
+                "type": "char [84]"
+            },
+            "text": "entity_0"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 15,
+            "sem": "VarDecl",
+            "text": "["
+        },
+        {
+            "kind": "Literal",
+            "line": 15,
+            "sem": "IntegerLiteral",
+            "text": "84"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 15,
+            "sem": "VarDecl",
+            "text": "]"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 15,
+            "sem": "DeclStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Identifier",
+            "line": 16,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@865@F@main@entity_5",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 13
+                },
+                "type": "int"
+            },
+            "text": "entity_5"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 16,
+            "sem": "BinaryOperator",
+            "text": "="
+        },
+        {
+            "kind": "Literal",
+            "line": 16,
+            "sem": "IntegerLiteral",
+            "text": "22"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 16,
+            "sem": "CompoundStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Identifier",
+            "line": 17,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@1033@F@main@entity_0",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 15
+                },
+                "type": "char [84]"
+            },
+            "text": "entity_0"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 17,
+            "sem": "ArraySubscriptExpr",
+            "text": "["
+        },
+        {
+            "kind": "Identifier",
+            "line": 17,
+            "sem": "DeclRefExpr",
+            "sym": {
+                "id": "c:eecefec25c.c@865@F@main@entity_5",
+                "kind": "VarDecl",
+                "ref": {
+                    "file": "/mnt/data/src/eecefec25c.c",
+                    "linenum": 13
+                },
+                "type": "int"
+            },
+            "text": "entity_5"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 17,
+            "sem": "ArraySubscriptExpr",
+            "text": "]"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 17,
+            "sem": "BinaryOperator",
+            "text": "="
+        },
+        {
+            "kind": "Literal",
+            "line": 17,
+            "sem": "CharacterLiteral",
+            "text": "'K'"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 17,
+            "sem": "CompoundStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Keyword",
+            "line": 18,
+            "sem": "ReturnStmt",
+            "text": "return"
+        },
+        {
+            "kind": "Literal",
+            "line": 18,
+            "sem": "IntegerLiteral",
+            "text": "0"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 18,
+            "sem": "CompoundStmt",
+            "text": ";"
+        },
+        {
+            "kind": "Punctuation",
+            "line": 19,
+            "sem": "CompoundStmt",
+            "text": "}"
+        }
+    ]
+}

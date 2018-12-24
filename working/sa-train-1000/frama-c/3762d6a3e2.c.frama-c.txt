@@ -1,0 +1,2 @@
+3762d6a3e2.c:13:[value] warning: accessing out of bounds index. assert entity_4 < 42;
+3762d6a3e2.c:13:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

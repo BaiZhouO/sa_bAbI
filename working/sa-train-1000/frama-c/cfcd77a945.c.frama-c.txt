@@ -1,0 +1,3 @@
+cfcd77a945.c:18:[value] warning: accessing out of bounds index. assert entity_8 < 30;
+cfcd77a945.c:22:[value] warning: accessing out of bounds index. assert entity_9 < 60;
+cfcd77a945.c:22:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

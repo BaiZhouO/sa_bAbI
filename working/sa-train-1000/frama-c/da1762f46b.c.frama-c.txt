@@ -1,0 +1,2 @@
+da1762f46b.c:14:[value] warning: accessing out of bounds index. assert entity_0 < 72;
+da1762f46b.c:14:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

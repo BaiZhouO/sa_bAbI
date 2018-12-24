@@ -1,0 +1,2 @@
+68b7c13b2a.c:18:[value] warning: accessing out of bounds index. assert entity_4 < 45;
+68b7c13b2a.c:18:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

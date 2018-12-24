@@ -1,0 +1,4 @@
+5041400e73.c:17:[value] warning: accessing out of bounds index. assert entity_4 < 67;
+5041400e73.c:17:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+5041400e73.c:22:[value] warning: accessing out of bounds index. assert entity_9 < 46;
+5041400e73.c:22:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

@@ -1,0 +1,2 @@
+7246240ccc.c:10:[value] warning: accessing out of bounds index. assert entity_2 < 3;
+7246240ccc.c:10:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

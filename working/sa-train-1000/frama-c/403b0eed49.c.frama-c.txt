@@ -1,0 +1,5 @@
+403b0eed49.c:16:[value] warning: accessing out of bounds index. assert entity_8 < 74;
+403b0eed49.c:16:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+403b0eed49.c:22:[value] warning: accessing out of bounds index. assert entity_6 < 50;
+403b0eed49.c:29:[value] warning: accessing out of bounds index. assert entity_7 < 14;
+403b0eed49.c:29:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

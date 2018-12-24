@@ -1,0 +1,4 @@
+e706f47569.c:20:[value] warning: accessing out of bounds index. assert entity_6 < 9;
+e706f47569.c:20:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+e706f47569.c:25:[value] warning: accessing out of bounds index. assert entity_4 < 14;
+e706f47569.c:25:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

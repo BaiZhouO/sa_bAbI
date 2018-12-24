@@ -1,0 +1,4 @@
+2cbb9810a5.c:16:[value] warning: accessing out of bounds index. assert entity_1 < 46;
+2cbb9810a5.c:16:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+2cbb9810a5.c:26:[value] warning: accessing out of bounds index. assert entity_3 < 47;
+2cbb9810a5.c:26:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

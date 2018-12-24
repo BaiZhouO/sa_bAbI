@@ -1,0 +1,1 @@
+adb1b9732f.c:13:[value] warning: accessing out of bounds index. assert entity_8 < 32;

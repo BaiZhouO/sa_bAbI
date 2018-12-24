@@ -1,0 +1,4 @@
+699df99add.c:14:[value] warning: accessing out of bounds index. assert entity_3 < 35;
+699df99add.c:14:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+699df99add.c:20:[value] warning: accessing out of bounds index. assert entity_1 < 31;
+699df99add.c:20:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

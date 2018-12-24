@@ -1,0 +1,4 @@
+a4d66727bb.c:18:[value] warning: accessing out of bounds index. assert entity_5 < 2;
+a4d66727bb.c:18:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+a4d66727bb.c:23:[value] warning: accessing out of bounds index. assert entity_2 < 66;
+a4d66727bb.c:23:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

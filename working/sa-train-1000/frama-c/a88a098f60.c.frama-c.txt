@@ -1,0 +1,1 @@
+a88a098f60.c:15:[value] warning: accessing out of bounds index. assert entity_4 < 64;

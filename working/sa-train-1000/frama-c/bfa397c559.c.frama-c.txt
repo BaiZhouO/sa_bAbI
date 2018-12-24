@@ -1,0 +1,2 @@
+bfa397c559.c:12:[value] warning: accessing out of bounds index. assert entity_1 < 3;
+bfa397c559.c:12:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

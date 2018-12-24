@@ -1,0 +1,4 @@
+29448dc3b1.c:14:[value] warning: accessing out of bounds index. assert entity_7 < 17;
+29448dc3b1.c:14:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+29448dc3b1.c:24:[value] warning: out of bounds write. assert \valid(&entity_2[entity_4]);
+29448dc3b1.c:24:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

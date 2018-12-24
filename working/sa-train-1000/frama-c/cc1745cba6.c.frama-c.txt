@@ -1,0 +1,2 @@
+cc1745cba6.c:10:[value] warning: accessing out of bounds index. assert entity_3 < 22;
+cc1745cba6.c:10:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

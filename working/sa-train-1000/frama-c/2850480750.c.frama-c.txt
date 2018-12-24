@@ -1,0 +1,2 @@
+2850480750.c:18:[value] warning: accessing out of bounds index. assert entity_7 < 10;
+2850480750.c:18:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

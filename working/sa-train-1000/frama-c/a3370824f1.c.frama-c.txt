@@ -1,0 +1,2 @@
+a3370824f1.c:19:[value] warning: out of bounds write. assert \valid(&entity_2[entity_9]);
+a3370824f1.c:19:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

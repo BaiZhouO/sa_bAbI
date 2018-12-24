@@ -1,0 +1,1 @@
+4b0858b915.c:13:[value] warning: accessing out of bounds index. assert entity_9 < 8;

@@ -1,0 +1,2 @@
+b3f871bc62.c:24:[value] warning: accessing out of bounds index. assert entity_6 < 24;
+b3f871bc62.c:24:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

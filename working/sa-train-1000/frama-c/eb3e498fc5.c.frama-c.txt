@@ -1,0 +1,4 @@
+eb3e498fc5.c:20:[value] warning: accessing out of bounds index. assert entity_7 < 25;
+eb3e498fc5.c:20:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+eb3e498fc5.c:22:[value] warning: accessing out of bounds index. assert entity_1 < 44;
+eb3e498fc5.c:22:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

@@ -1,0 +1,3 @@
+093b903784.c:15:[value] warning: accessing out of bounds index. assert entity_1 < 88;
+093b903784.c:15:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+093b903784.c:17:[value] warning: accessing out of bounds index. assert entity_9 < 24;

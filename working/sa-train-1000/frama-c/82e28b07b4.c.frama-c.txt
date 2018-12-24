@@ -1,0 +1,4 @@
+82e28b07b4.c:20:[value] warning: accessing out of bounds index. assert entity_7 < 28;
+82e28b07b4.c:20:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+82e28b07b4.c:24:[value] warning: accessing out of bounds index. assert entity_5 < 78;
+82e28b07b4.c:24:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

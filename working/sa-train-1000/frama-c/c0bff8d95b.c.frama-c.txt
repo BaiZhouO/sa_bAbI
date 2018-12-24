@@ -1,0 +1,4 @@
+c0bff8d95b.c:15:[value] warning: accessing out of bounds index. assert entity_3 < 8;
+c0bff8d95b.c:15:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+c0bff8d95b.c:22:[value] warning: out of bounds write. assert \valid(&entity_4[entity_0]);
+c0bff8d95b.c:22:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

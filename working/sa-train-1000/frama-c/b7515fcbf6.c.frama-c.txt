@@ -1,0 +1,4 @@
+b7515fcbf6.c:20:[value] warning: accessing out of bounds index. assert entity_7 < 23;
+b7515fcbf6.c:20:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+b7515fcbf6.c:29:[value] warning: accessing out of bounds index. assert entity_3 < 30;
+b7515fcbf6.c:29:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

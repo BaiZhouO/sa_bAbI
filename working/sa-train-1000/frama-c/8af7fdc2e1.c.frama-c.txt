@@ -1,0 +1,4 @@
+8af7fdc2e1.c:16:[value] warning: accessing out of bounds index. assert entity_8 < 23;
+8af7fdc2e1.c:16:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
+8af7fdc2e1.c:22:[value] warning: accessing out of bounds index. assert entity_9 < 18;
+8af7fdc2e1.c:22:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

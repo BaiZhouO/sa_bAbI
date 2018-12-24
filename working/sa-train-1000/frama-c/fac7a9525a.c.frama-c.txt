@@ -1,0 +1,2 @@
+fac7a9525a.c:13:[value] warning: accessing out of bounds index. assert entity_6 < 13;
+fac7a9525a.c:13:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.

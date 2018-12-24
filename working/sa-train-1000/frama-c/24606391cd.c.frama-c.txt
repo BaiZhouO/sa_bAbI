@@ -1,0 +1,1 @@
+24606391cd.c:16:[value] warning: accessing out of bounds index. assert entity_4 < 6;

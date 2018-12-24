@@ -1,0 +1,2 @@
+dedabd64aa.c:13:[value] warning: accessing out of bounds index. assert entity_2 < 45;
+dedabd64aa.c:13:[kernel] warning: all target addresses were invalid. This path is assumed to be dead.
